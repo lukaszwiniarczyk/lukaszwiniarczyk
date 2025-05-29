@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on: <a href="https://lukaszwiniarczyk.github.io/astrosites/">AstroSites</a> <br>📚 I'm currently learning: JavaScript, TypeScript, React, Redux, Next.js<br> 📪 How to reach me: <a href="mailto:lukaszwiniarczyk05@gmail.com">lukaszwiniarczyk05@gmail.com</a><br><br>My daily routine: be curious!</p>
+<p align="left">✨ I’m currently working on: <a href="https://github.com/lukaszwiniarczyk/astrosites">AstroSites</a> <br>📚 I'm currently learning: JavaScript, TypeScript, React, Redux, Next.js<br> 📪 How to reach me: <a href="mailto:lukaszwiniarczyk05@gmail.com">lukaszwiniarczyk05@gmail.com</a><br><br>My daily routine: be curious!</p>
 
 ###
 
