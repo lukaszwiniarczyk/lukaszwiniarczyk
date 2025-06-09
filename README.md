@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I code sometimes</p>
+<p align="left">I code</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ I’m currently working on: <a href="https://github.com/lukaszwiniarczyk/astrosites">AstroSites</a> <br>📚 I'm currently learning: JavaScript, TypeScript, React, Redux, Next.js<br> 📪 How to reach me: <a href="mailto:lukaszwiniarczyk05@gmail.com">lukaszwiniarczyk05@gmail.com</a><br><br>My daily routine: be curious!</p>
+<p align="left">✨ I’m currently working on: <a href="https://github.com/lukaszwiniarczyk/home4you">Home4YOU</a> <br>📚 I'm currently learning: JavaScript, TypeScript, React, Redux, Next.js<br> 📪 How to reach me: <a href="mailto:lukaszwiniarczyk05@gmail.com">lukaszwiniarczyk05@gmail.com</a><br><br>My daily routine: be curious!</p>
+<br>
+
+My projects: <a href="https://github.com/lukaszwiniarczyk/astrosites">AstroSites</a> and <a href="https://github.com/lukaszwiniarczyk/home4you">Home4YOU</a>
 
 ###
 
@@ -69,7 +72,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukaszwiniarczyk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaszwiniarczyk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
