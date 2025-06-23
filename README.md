@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently working on a new project created in Tailwind</a> <br>📚 I'm currently learning: JavaScript, TypeScript, React, Redux, Next.js<br> 📪 How to reach me: <a href="mailto:lukaszwiniarczyk05@gmail.com">lukaszwiniarczyk05@gmail.com</a><br><br>Daily reminder: be curious!</p>
+<p align="left">✨ I’m currently working on a new project created in Tailwind</a> <br>📚 I'm currently learning: JavaScript, TypeScript <br> 📪 How to reach me: <a href="mailto:lukaszwiniarczyk05@gmail.com">lukaszwiniarczyk05@gmail.com</a><br><br>Daily reminder: be curious!</p>
 <br>
 
 My projects: <a href="https://github.com/lukaszwiniarczyk/astrosites">AstroSites</a> and <a href="https://github.com/lukaszwiniarczyk/home4you">Home4YOU</a>
@@ -54,11 +54,6 @@ My projects: <a href="https://github.com/lukaszwiniarczyk/astrosites">AstroSites
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
