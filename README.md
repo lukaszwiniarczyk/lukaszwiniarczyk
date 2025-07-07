@@ -19,7 +19,7 @@ My projects: <a href="https://github.com/lukaszwiniarczyk/astrosites">AstroSites
 
 <h2 align="left">I know</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tailwind,bootstrap,gulp,vscode,wordpress,figma)<br/>
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,tailwind,bootstrap,gulp,vscode,wordpress,figma&perline=5)<br/>
 
 ###
 
